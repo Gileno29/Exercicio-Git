@@ -1,0 +1,4 @@
+#ignora tudo que tem as extenssões a seguir
+*.tar
+*.zip
+backup
